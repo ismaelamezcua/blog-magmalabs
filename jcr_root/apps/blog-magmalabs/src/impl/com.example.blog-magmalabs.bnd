@@ -1,0 +1,7 @@
+Export-Package: com.example.blog-magmalabs
+Private-Package: com.example.blog-magmalabs.impl
+Bundle-Name: Sample project blog-magmalabs
+Bundle-Description: Contains the blog-magmalabs sample bundle
+Bundle-SymbolicName: com.example.blog-magmalabs
+Bundle-Version: 1.0-SNAPSHOT
+Bundle-Activator: com.example.blog-magmalabs.impl.Activator
